@@ -1,20 +1,15 @@
 #!/bin/bash
 
 # === Unalias shortcuts ===
-unalias ll 2>/dev/null
 unalias gs 2>/dev/null
 unalias .. 2>/dev/null
 unalias ... 2>/dev/null
 unalias .... 2>/dev/null
 unalias ~ 2>/dev/null
 unalias home 2>/dev/null
-unalias ls 2>/dev/null
 unalias la 2>/dev/null
 unalias l 2>/dev/null
-unalias rm 2>/dev/null
 unalias cp 2>/dev/null
-unalias mv 2>/dev/null
-unalias mkdir 2>/dev/null
 unalias ga 2>/dev/null
 unalias gc 2>/dev/null
 unalias gco 2>/dev/null
