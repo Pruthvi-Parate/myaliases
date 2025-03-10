@@ -23,7 +23,7 @@ alias mkdir='mkdir -pv'
 # === Git Shortcuts ===
 alias gs='git status'
 alias ga='git add .'
-alias gc='git commit -m'
+alias gc='git commit -m "new"'
 alias gco='git checkout'
 alias gb='git branch'
 alias gl='git log --oneline --graph --decorate'
