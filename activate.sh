@@ -1,4 +1,4 @@
 #!/bin/bash
-source "aliases.sh"
+source aliases.sh
 echo "✅ Aliases activated."
 
